@@ -1,0 +1,12 @@
+li {
+  float: left;
+}
+
+a {
+  display: block;
+  padding: 8px;
+
+}
+ #navtest {
+   height: 50px;
+ }
